@@ -27,5 +27,6 @@ The dataset contains: Pivot Table and Power Pivot.
 - Bandung and Medan were the strongest regions by clean revenue.
 - 826 rows required review before being used for dashboard decisions.
 - Corporate and New Customer dominating the order data with purchasing in Electronics and Furniture.
+  
 ## Dashboard Preview
-
+dashboard-preview.png
