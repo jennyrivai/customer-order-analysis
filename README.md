@@ -1,7 +1,7 @@
 # Excel Customer Order Portfolio Project 
 
 ## Project Overview 
-This project analyzes a dataset using Microsoft Excel to summarize the Customer Order.
+This project analyzes a data set using Microsoft Excel to summarize the sales data.
 
 ## Dataset 
 The dataset contains: Pivot Table and Power Pivot.
@@ -26,7 +26,4 @@ The dataset contains: Pivot Table and Power Pivot.
 - Electronics and Furniture make the strongest profit margins.
 - Bandung and Medan were the strongest regions by clean revenue.
 - 826 rows required review before being used for dashboard decisions.
-- Corporate and New Customer dominating the order data with purchasing in Electronics and Furniture.
-  
-## Dashboard Preview
-dashboard-preview.png
+- Corporate and New Customer dominated the order data, with purchasing in Electronics and Furniture.
