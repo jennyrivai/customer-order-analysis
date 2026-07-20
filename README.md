@@ -1,7 +1,7 @@
 # Excel Customer Order Portfolio Project 
 
 ## Project Overview 
-This project analyzes a data set using Microsoft Excel to summarize the sales data.
+This project analyzes a data set in Microsoft Excel to summarize customer orders.
 
 ## Dataset 
 The dataset contains: Pivot Table and Power Pivot.
